@@ -27,6 +27,11 @@ The primary objective of this project is to improve the quality, accuracy, and r
 + Handling Duplicates
 + Standardization
 + Outlier Detection
+### Code
+#Upload dataset
+from google.colab import files
+uploaded = files.upload()
+
 ### Outcome
 + Below is the outcome of dataset after data cleaning.
   <img width="907" height="141" alt="image" src="https://github.com/user-attachments/assets/a0aed45b-df80-499b-a351-a68c04fb4dfb" />
