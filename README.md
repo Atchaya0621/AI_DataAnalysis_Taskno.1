@@ -28,6 +28,8 @@ The primary objective of this project is to improve the quality, accuracy, and r
 + Standardization
 + Outlier Detection
 ### Outcome
++ Below is the outcome of dataset after data cleaning.
+  <img width="907" height="141" alt="image" src="https://github.com/user-attachments/assets/a0aed45b-df80-499b-a351-a68c04fb4dfb" />
 + The data cleaning process significantly improved the quality and reliability of the dataset.
 + By handling missing values, removing duplicates, and treating outliers, the dataset became more consistent and suitable for analysis.
 + After cleaning, the dataset provided better insights into property listings, including pricing trends, room type distribution, and location-based patterns. 
