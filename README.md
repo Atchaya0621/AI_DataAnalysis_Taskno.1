@@ -9,5 +9,24 @@ The primary objective of this project is to improve the quality, accuracy, and r
 + The dataset is not completely clean and hence significant data cleaning is required. For example, missing values in columns such as last_review and reviews_per_month need to be handled appropriately.
 + Outliers in features like price are identified and treated using statistical methods to ensure realistic values.Inconsistent or irrelevant data entries are also removed to improve data quality.
 + The cleaned dataset is then prepared for further analysis and modeling. The processed data can be used to analyze pricing trends, room distribution, host activity, and availability patterns across different locations.
+### Tools and Technologies
++ Google Colab - Cloud-based environment for writing and executing Python code
++ Python – Programming language used for data cleaning and analysis.
++ Pandas – Used for data manipulation, cleaning, and preprocessing.
++ NumPy – Used for numerical operations and handling arrays.
++ Microsoft Excel / CSV Files – Data source for the project.
++ Matplotlib – Used for data visualization and plotting charts.
++ Seaborn – Used for creating advanced statistical visualizations.
+### Steps in Data cleaning
++ Upload and load Dataset
++ Import Libraries
++ Get Data Basic Information
++ Identify missing values
++ Handling missing values
++ Handling Duplicates
++ Standardization
++ Outlier Detection
+
+
 
 
