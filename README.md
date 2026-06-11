@@ -18,14 +18,24 @@ The primary objective of this project is to improve the quality, accuracy, and r
 + Matplotlib – Used for data visualization and plotting charts.
 + Seaborn – Used for creating advanced statistical visualizations.
 ### Steps in Data cleaning
-+ Upload and load Dataset
++ Upload Dataset
 + Import Libraries
++ Load Dataset
 + Get Data Basic Information
 + Identify missing values
 + Handling missing values
 + Handling Duplicates
 + Standardization
 + Outlier Detection
+### Outcome
++ The data cleaning process significantly improved the quality and reliability of the dataset.
++ By handling missing values, removing duplicates, and treating outliers, the dataset became more consistent and suitable for analysis.
++ After cleaning, the dataset provided better insights into property listings, including pricing trends, room type distribution, and location-based patterns. 
++ The cleaned data enabled accurate and meaningful analysis, which can be used for further visualization and decision-making.
++ The project demonstrates the importance of data preprocessing in real-world datasets and highlights how proper data cleaning can enhance the overall performance of analysis and machine learning models.
+
+
+
 
 
 
